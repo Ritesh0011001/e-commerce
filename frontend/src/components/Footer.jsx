@@ -8,7 +8,7 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-400'>
-                Forever brings timeless, trendy, and affordable fashion for everyone. Discover stylish outfits, quality fabrics, and effortless shopping. Dress bold, live free, and express your unique style.
+                Forever brings timele vfdqqqqqfss, trendy, and affordable fashion for everyone. Discover stylish outfits, quality fabrics, and effortless shopping. Dress bold, live free, and express your unique style.
 
                 </p>
             </div>
